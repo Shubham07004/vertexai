@@ -1,0 +1,24 @@
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Firebase credentials
+serviceAccountKey.json
+
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
